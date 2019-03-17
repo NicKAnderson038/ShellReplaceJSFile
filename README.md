@@ -4,5 +4,9 @@
 #### Commandline Example
 
 ```sh
-bash ./scripts/run.sh
+# make fooo's
+bash ./scripts/foo.sh
+
+# make baaar's
+bash ./scripts/bar.sh
 ```
