@@ -9,4 +9,7 @@ bash ./scripts/foo.sh
 
 # make baaar's
 bash ./scripts/bar.sh
+
+# find underscores
+bash ./scripts/find.sh
 ```
