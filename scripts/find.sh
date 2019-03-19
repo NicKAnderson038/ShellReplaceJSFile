@@ -14,4 +14,3 @@ cat ~/Projects/ShellReplaceJSFile/src/index.js | sed -e 's/_\(.*\)p/\1/'
 
 # cat ~/Projects/ShellReplaceJSFile/src/index.js | egrep -o '[[:digit:]]{5}' | head -n1
 # cat ~/Projects/ShellReplaceJSFile/src/index.js | awk -F _. '{ print $2 }'
-
