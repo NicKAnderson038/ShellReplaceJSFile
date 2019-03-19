@@ -19,3 +19,4 @@ if [ "$DIR" != "$RDIR" ]; then
   echo "DIR '$RDIR' resolves to '$DIR'"
 fi
 echo "DIR is '$DIR'"
+echo '************************* END ******************************'
